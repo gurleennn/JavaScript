@@ -1,3 +1,0 @@
-var x = 13; // x contains the value 13
-var y = 14; // y contains the value 14
-x *=y; // x now contains the value 182
