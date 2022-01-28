@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Arithmetic</h2>
+<h3>The addition Operator</h3>
+
+<p id="demo"></p>
+
+<script>
+let a = 20;
+let b = 30;
+let z = a + b;
+document.getElementById("demo").innerHTML = z;
+</script>
+
+</body>
+</html>
