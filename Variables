@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Variables</h1>
+
+<p>a, b, and c are variables.</p>
+
+<p id="demo"></p>
+
+<script>
+var a = 50;
+var b = 100;
+var c = a + b;
+document.getElementById("demo").innerHTML =
+"The value of c is: " + c;
+</script>
+
+</body>
+</html>
